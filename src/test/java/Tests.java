@@ -34,7 +34,7 @@ public class Tests extends Before {
         products.openCheckPage();
         products.firstName.sendKeys("Darya");
         products.lastName.sendKeys("Kalvina");
-        products.zipCode.sendKeys("230018");
+        products.zipCode.sendKeys("230118");
         products.cont.click();
         products.openCheckTwoPage();
         products.finish.click();
